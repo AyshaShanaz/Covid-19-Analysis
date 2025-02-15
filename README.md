@@ -1,5 +1,4 @@
 # Covid-19-Analysis
-COVID-19 Data Analysis
 This repository contains the analysis performed on COVID-19 data, focusing on the conditions contributing to COVID-19 deaths across different demographics and locations in the United States. The purpose of this analysis was to uncover insights into the factors contributing to COVID-19 mortality and provide data-driven recommendations for public health strategies and policy decisions.
 
 Project Overview
@@ -8,10 +7,15 @@ This project utilizes real-world data on COVID-19 deaths and contributing condit
 Repository Structure
 This project files are divided between the following folders:
 
-Project Management: Contains the project brief which outlines the objective and expectations of the analysis.
+Project Management: 
+Contains the project brief which outlines the objective and expectations of the analysis.
+
 Data: Separated into two subfolders Original Data and Prepared Data. These cintains the original data frames and the data frames after they have been cleaned and prepared for analysis respectively. (Data files not uploaded to GitHub due to size).
+
 Scripts: The Jupyter notebooks containing the coding for the analysis.
+
 Analysis: The Visualizations folder contains the visualizations used for developing and explaining insights.
+
 Sent to Client: Includes the Tableau Public storyboard as a PDF file.
 
 Key Questions
@@ -53,6 +57,7 @@ This project includes various visualizations such as scatter plots, choropleth m
 
 Analysis Sections
 Initial Data Exploration
+
 ● Exploration of the dataset: Understanding the structure and kry statistics.
 
 ● Cleaning and preprocessing: Handling missing values, outliers, and data type conversions.
